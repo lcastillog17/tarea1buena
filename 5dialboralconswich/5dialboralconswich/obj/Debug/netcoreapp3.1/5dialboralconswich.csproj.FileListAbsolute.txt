@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\obj\Debug\netcoreapp3.1\5dialboralconswich.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\obj\Debug\netcoreapp3.1\5dialboralconswich.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\obj\Debug\netcoreapp3.1\5dialboralconswich.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\obj\Debug\netcoreapp3.1\5dialboralconswich.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\bin\Debug\netcoreapp3.1\5dialboralconswich.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\bin\Debug\netcoreapp3.1\5dialboralconswich.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\bin\Debug\netcoreapp3.1\5dialboralconswich.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\bin\Debug\netcoreapp3.1\5dialboralconswich.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\bin\Debug\netcoreapp3.1\5dialboralconswich.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\bin\Debug\netcoreapp3.1\5dialboralconswich.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\obj\Debug\netcoreapp3.1\5dialboralconswich.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\obj\Debug\netcoreapp3.1\5dialboralconswich.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\5dialboralconswich\5dialboralconswich\obj\Debug\netcoreapp3.1\5dialboralconswich.genruntimeconfig.cache

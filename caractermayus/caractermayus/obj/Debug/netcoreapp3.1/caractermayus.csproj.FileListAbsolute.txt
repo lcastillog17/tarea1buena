@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\bin\Debug\netcoreapp3.1\caractermayus.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\bin\Debug\netcoreapp3.1\caractermayus.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\bin\Debug\netcoreapp3.1\caractermayus.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\bin\Debug\netcoreapp3.1\caractermayus.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\bin\Debug\netcoreapp3.1\caractermayus.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\bin\Debug\netcoreapp3.1\caractermayus.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\obj\Debug\netcoreapp3.1\caractermayus.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\obj\Debug\netcoreapp3.1\caractermayus.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\obj\Debug\netcoreapp3.1\caractermayus.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\obj\Debug\netcoreapp3.1\caractermayus.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\obj\Debug\netcoreapp3.1\caractermayus.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\obj\Debug\netcoreapp3.1\caractermayus.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\caractermayus\caractermayus\obj\Debug\netcoreapp3.1\caractermayus.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\obj\Debug\netcoreapp3.1\3salarioobrero.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\obj\Debug\netcoreapp3.1\3salarioobrero.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\obj\Debug\netcoreapp3.1\3salarioobrero.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\obj\Debug\netcoreapp3.1\3salarioobrero.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\bin\Debug\netcoreapp3.1\3salarioobrero.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\bin\Debug\netcoreapp3.1\3salarioobrero.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\bin\Debug\netcoreapp3.1\3salarioobrero.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\bin\Debug\netcoreapp3.1\3salarioobrero.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\bin\Debug\netcoreapp3.1\3salarioobrero.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\bin\Debug\netcoreapp3.1\3salarioobrero.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\obj\Debug\netcoreapp3.1\3salarioobrero.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\obj\Debug\netcoreapp3.1\3salarioobrero.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\3salarioobrero\3salarioobrero\obj\Debug\netcoreapp3.1\3salarioobrero.genruntimeconfig.cache

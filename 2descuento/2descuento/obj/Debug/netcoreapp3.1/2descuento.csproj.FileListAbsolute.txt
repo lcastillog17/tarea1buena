@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\bin\Debug\netcoreapp3.1\2descuento.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\bin\Debug\netcoreapp3.1\2descuento.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\bin\Debug\netcoreapp3.1\2descuento.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\bin\Debug\netcoreapp3.1\2descuento.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\bin\Debug\netcoreapp3.1\2descuento.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\bin\Debug\netcoreapp3.1\2descuento.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\obj\Debug\netcoreapp3.1\2descuento.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\obj\Debug\netcoreapp3.1\2descuento.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\obj\Debug\netcoreapp3.1\2descuento.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\obj\Debug\netcoreapp3.1\2descuento.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\obj\Debug\netcoreapp3.1\2descuento.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\obj\Debug\netcoreapp3.1\2descuento.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\2descuento\2descuento\obj\Debug\netcoreapp3.1\2descuento.genruntimeconfig.cache

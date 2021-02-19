@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\bin\Debug\netcoreapp3.1\4añobisiesto.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\bin\Debug\netcoreapp3.1\4añobisiesto.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\bin\Debug\netcoreapp3.1\4añobisiesto.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\bin\Debug\netcoreapp3.1\4añobisiesto.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\bin\Debug\netcoreapp3.1\4añobisiesto.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\bin\Debug\netcoreapp3.1\4añobisiesto.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\obj\Debug\netcoreapp3.1\4añobisiesto.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\obj\Debug\netcoreapp3.1\4añobisiesto.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\obj\Debug\netcoreapp3.1\4añobisiesto.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\obj\Debug\netcoreapp3.1\4añobisiesto.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\obj\Debug\netcoreapp3.1\4añobisiesto.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\obj\Debug\netcoreapp3.1\4añobisiesto.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea 1 vs en github\4añobisiesto\4añobisiesto\obj\Debug\netcoreapp3.1\4añobisiesto.genruntimeconfig.cache
